@@ -1,19 +1,23 @@
 <!-- Banner / Header -->
+## Hi there 👋  
+<!-- 🎉 Welcome Banner with Typing Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=HHey+there!+I'm+a+MERN+Stack+Developer;I+Build+Scalable+Full-Stack+Apps+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hey+There+I'm+Hammad+👋;MERN+Stack+Developer+🚀;Love+to+Create+Modern+Apps+💻;Always+Learning+%26+Building+✨" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Working.gif" width="300" alt="Developer at work" />
-</p>
 
 <h1 align="center">Hi, I'm Hammad 👋</h1>
 
 <p align="center">
   MERN Stack Developer | JavaScript Enthusiast | Open Source Contributor
 </p>
----
 
+<!-- 🧑‍💻 Live Coding Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Live coding" width="600"/>
+</p>
+
+---
 ### 👨‍💻 About Me:
 
 - 🔭 I’m currently working on **Full-stack Web Applications**
@@ -72,35 +76,21 @@
 
 ---
 
----
+## 🏆 Achievements  
 
-## 📌 Featured Projects
-
-Here are some of my favorite projects — feel free to check them out!
-
-### 🧠 MERN Task Manager
-
-A full-featured task management app with authentication, CRUD, JWT, and dashboard.
-
-**Tech:** React, Redux, Node.js, Express, MongoDB  
-🔗 [GitHub Repo](https://github.com/yourusername/task-manager) | 🌐 [Live Demo](https://task-manager.example.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hammad-Ahmed0&theme=onedark&row=2&column=3" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-### 🛒 E-Commerce Platform
+## 📊 GitHub Stats  
 
-An e-commerce web app with shopping cart, product filtering, and secure checkout.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hammad-Ahmed0&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hammad-Ahmed0&theme=onedark&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
 
-**Tech:** React, Context API, Node.js, Express, MongoDB  
-🔗 [GitHub Repo](https://github.com/yourusername/ecommerce-platform) | 🌐 [Live Demo](https://ecommerce.example.com)
-
----
-
-### 💬 Real-Time Chat App
-
-A chat application with WebSocket support, real-time updates, and user presence.
-
-**Tech:** React, Socket.io, Node.js, Express  
-🔗 [GitHub Repo](https://github.com/yourusername/chat-app) | 🌐 [Live Demo](https://chat.example.com)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Ahmed0&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/>
+</p>
