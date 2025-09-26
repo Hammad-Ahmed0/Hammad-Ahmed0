@@ -79,7 +79,7 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hammad-Ahmed0&theme=onedark&row=2&column=3" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadahmed05&theme=onedark&row=2&column=3" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -87,10 +87,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammad-Ahmed0&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hammad-Ahmed0&theme=onedark&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadahmed05&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadahmed05&theme=onedark&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Ahmed0&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadahmed05&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/>
 </p>
